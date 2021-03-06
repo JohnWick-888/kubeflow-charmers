@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.1
+FROM k8s.gcr.io/ingress-nginx/controller
 MAINTAINER zhangguanghui
