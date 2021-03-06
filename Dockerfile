@@ -1,2 +1,2 @@
-FROM registry.jujucharms.com/kubeflow-charmers/admission-webhook/oci-image
+FROM registry.jujucharms.com/kubeflow-charmers/admission-webhook/oci-image@sha256:1abb1276f73b297f0d22d12260e7d5d3270868524ddbcc546a4689610d1deaa4
 MAINTAINER zhangguanghui
